@@ -77,19 +77,7 @@ ReactDOM.render(
         title="A LIFE FOR GOD"
         author="RABBI GREG HERSHBERG"
         />
-        <Books
-        image="https://books.google.com.ph/books/content?id=pPpEevimh-cC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70v3ob09joxeLfSIKu7lhTP5kcA21424s-Z7WQjD53xr6_GK8rA1APqRg_jyJ5yf_hp0Z4UQJW9Q8wzzdvXO6HvW0MlW2KLVZmWnNzWh2Ee3tng4IWC9qA2d3BXYU6tgen7HAbo"
-        details=""
-        preview="https://books.google.com.ph/books?id=pPpEevimh-cC&pg=PA39&dq=intitle:9+lives+ANDREW+HUDSON&hl=&as_pt=BOOKS&cd=1&source=gbs_api#v=onepage&q=intitle%3A9%20lives%20ANDREW%20HUDSON&f=false"
-        title="LITERATURE AFTER 9/11"
-        author="JEANNE FOLLANSBEE QUINN"
-        />
-        <Books
-        image="https://books.google.com.ph/books/publisher/content?id=EacxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71hG4izHdgCmfN7gIgAo6Fd18JtIBWS2lD6nqobGCzRATm4pVXfgRTrH4hI8gbfqcm1i5RyJiLYdJD04XOFgHQ49pEn1Iv-m4U_A5d8KDizxCuMzeG5yR9PJhfCKvXA9_rCTyyw"
-        preview="https://books.google.com.ph/books?id=EacxEAAAQBAJ&printsec=frontcover&dq=intitle:An+Introduction+to+Neural+Science&hl=&as_pt=BOOKS&cd=2&source=gbs_api#v=onepage&q&f=false"
-        title="MACHINE LEARNING ALGORITHMS FOR DATA SCIENTISTS: AN OVERVIEW"
-        author="VINAITHEERTHAN RENGANATHAN"
-        />
+        
     </div>,
     document.getElementById('app')
 );
